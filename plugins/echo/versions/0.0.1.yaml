@@ -1,0 +1,5 @@
+version: 0.0.1
+source:
+  oci: ghcr.io/justenwalker/kevin/plugin-echo:0.0.1
+  signing:
+    scheme: minisign

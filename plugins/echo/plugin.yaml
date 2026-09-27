@@ -1,0 +1,4 @@
+name: echo
+summary: demonstrates the kevin plugin protocol - echoes a message, no real resource
+homepage: https://github.com/justenwalker/kevin/tree/main/cmd/kevin-plugin-echo
+maintainer: Justen Walker
