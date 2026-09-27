@@ -24,7 +24,7 @@ plugins/
 
 Each plugin has a `plugin.yaml` (name, summary, homepage, maintainer, signers) and one `versions/<version>.yaml` per release, never edited after it's published.
 
-See kevin's [Plugin index format](https://github.com/justenwalker/kevin/blob/main/docs/site/content/docs/reference/plugin-index.md) reference for every field, and [Publishing a plugin](https://github.com/justenwalker/kevin/blob/main/docs/site/content/docs/extending/publishing-a-plugin.md) for how to add a plugin here.
+See kevin's [Plugin index format](https://justenwalker.github.io/kevin/docs/reference/plugin-index/) reference for every field, and [Publishing a plugin](https://justenwalker.github.io/kevin/docs/extending/publishing-a-plugin/) for how to add a plugin here.
 
 ## Plugins
 
